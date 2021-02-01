@@ -10,4 +10,4 @@ Well, and here are some normal text. Lopem ips and such.
 * List item 3
 
 
-![](seminar.jpg)
+![](Seminar.jpg)
